@@ -1,18 +1,15 @@
 ### Hi there 👋
 
-<!--
-**gilsongindrejr/gilsongindrejr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :snake: Python developer
+- 🌱 I’m currently learning django framework
+- :desktop_computer: Looking foward to be a backend developer
 
-Here are some ideas to get you started:
+<div>
+  <a href=""https://github.com/gilsongindrejr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilsongindrejr&show_icons=true&theme=dark&include_all_commits=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsongindrejr&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div style="display: inline-block"><br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilsongindrejr)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
