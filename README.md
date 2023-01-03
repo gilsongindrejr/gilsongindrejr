@@ -1,1 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilsongindrejr&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilsongindrejr&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsongindrejr&theme=tokyonight"/>
+</div>
